@@ -1,0 +1,26 @@
+{
+    "name": "hg_back",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "ndm": "nodemon index.js"
+    },
+    "author": "Filipe Montebeller Rocha",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.20.1",
+        "crypto": "^1.0.1",
+        "express": "^4.18.2",
+        "fs": "^0.0.1-security",
+        "jsonwebtoken": "^8.5.1",
+        "mysql": "^2.18.1",
+        "nodemailer": "^6.8.0",
+        "nodemon": "^2.0.20",
+        "path": "^0.12.7",
+        "puppeteer": "^19.3.0"
+    }
+}

@@ -1,0 +1,31 @@
+html,
+body,
+#root,
+.App {
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    --corBackground: #080808;
+    --corMenu: #141413;
+    --corBranco: #fff;
+    --corBordaMenu: #000;
+    --corItemMenuAtivo: goldenrod;
+    --corMenuColor: #fff;
+    --corColor: #000;
+}
+
+.App {
+    background-color: var(--corBackground);
+    color: var(--corColor);
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    color: inherit;
+}

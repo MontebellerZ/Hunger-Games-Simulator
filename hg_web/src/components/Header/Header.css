@@ -1,0 +1,28 @@
+#Header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 50px;
+    height: 60px;
+    border-bottom: 1px solid var(--corBordaMenu);
+    background-color: var(--corMenu);
+    color: var(--corMenuColor);
+}
+
+#HeaderLogo {
+    height: 100%;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    background-color: inherit;
+    border: 0px;
+    font-size: inherit;
+    color: inherit;
+    cursor: pointer;
+}
+
+#HeaderLogo > img {
+    height: 100%;
+}

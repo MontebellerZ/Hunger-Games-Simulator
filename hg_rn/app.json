@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "hg_rn",
+    "slug": "hg_rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "hg_rn"
+}

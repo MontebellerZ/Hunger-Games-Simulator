@@ -1,0 +1,3070 @@
+{
+    "inicio": [
+        {
+            "texto": {
+                "en": "${p0} accidently steps on a landmine."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight ${p2} and ${p3}. ${p0} and ${p1} survive."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight ${p2} and ${p3}. ${p2} and ${p3} survive."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight for a bag. ${p0} gives up and retreats."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight for a bag. ${p0} strangles ${p1} with the straps and runs."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight for a bag. ${p1} gives up and retreats."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight for a bag. ${p1} strangles ${p0} with the straps and runs."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} threaten a double suicide. It fails and they die."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} work together to drown ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} attacks ${p1}, but ${p2} protects her, killing ${p0}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} attacks ${p1}, but ${p2} protects him, killing ${p0}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} bashes ${p1}'s head against a rock several times."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} bashes ${p1}'s head in with a mace."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} breaks ${p1}'s nose for a basket of bread."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} cannot handle the circumstances and commits suicide."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} catches ${p1} off guard and kills her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} catches ${p1} off guard and kills him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} clutches a first aid kit and runs away."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill her, only to kill her instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill her, only to kill him instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill him, only to kill her instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill him, only to kill him instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} decapitates ${p1} with a sword."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} falls into a frozen lake and drowns."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} falls into a pit and dies."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} finds ${p1} hiding in the cornucopia and kills her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} finds ${p1} hiding in the cornucopia and kills him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} finds ${p1} hiding in the cornucopia, but ${p1} kills her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} finds ${p1} hiding in the cornucopia, but ${p1} kills him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} finds a backpack full of camping equipment."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} finds a bag full of explosives."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} finds a bow, some arrows, and a quiver."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} finds a canteen full of water."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} gathers as much food as he can."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} gathers as much food as she can."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} grabs a backpack and retreats."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} grabs a backpack, not realizing it is empty."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} grabs a jar of fishing bait while ${p1} gets fishing gear."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} grabs a shield leaning on the cornucopia."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} grabs a shovel."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} grabs a sword."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} is unable to convince ${p1} to not kill her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} is unable to convince ${p1} to not kill him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} as he tries to run."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} as she tries to run."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} for her supplies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} for his supplies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with a hatchet."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with a sickle."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with her own weapon."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with his own weapon."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} overpowers ${p1}, killing her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} overpowers ${p1}, killing him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} pushes ${p1} off a cliff during a knife fight."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} repeatedly stabs ${p1} to death with sais."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} retrieves a trident from inside the cornucopia."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} rips a mace out of ${p1}'s hands."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} runs away from the Cornucopia."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} runs away with a lighter and some rope."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} runs into the cornucopia and hides."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} scares ${p1} away from the cornucopia."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} sets ${p1} on fire with a molotov."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, ${p2}, ${p3} and ${p4}."
+            },
+            "participantes": 5
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, ${p2}, and ${p3}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, and ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1} and leaves her to die."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1} and leaves him to die."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1}, but puts her out of her misery."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1}, but puts him out of his misery."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely slices ${p1} with a sword."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots a poisonous blow dart into ${p1}'s neck, slowly killing her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots a poisonous blow dart into ${p1}'s neck, slowly killing him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots an arrow at ${p1}, but misses and kills ${p2} instead."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots an arrow into ${p1}'s head."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} snaps ${p1}'s neck."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} snatches a bottle of alcohol and a rag."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} snatches a pair of sais."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} spears ${p1} in the abdomen."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} in the back with a trident."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} while her back is turned."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} while his back is turned."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} with a tree branch."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stays at the cornucopia for resources."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} steps off her podium too soon and blows up."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} steps off his podium too soon and blows up."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} strangles ${p1} after engaging in a fist fight."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} strangles ${p1} with a rope."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} takes a handful of throwing knives."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} takes a sickle from inside the cornucopia."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} takes a spear from inside the cornucopia."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} throws a knife into ${p1}'s chest."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} throws a knife into ${p1}'s head."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} form a suicide pact, killing themselves."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} share everything they gathered before running."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p0} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p1} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p2} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} start fighting, but ${p1} runs away as ${p0} kills ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} work together to get as many supplies as possible."
+            },
+            "participantes": 3
+        }
+    ],
+    "dia": [
+        {
+            "texto": {
+                "en": "${p0} accidently detonates a land mine while trying to arm it."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} accidently steps on a landmine."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} ambushes ${p1} and kills her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} ambushes ${p1} and kills him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight ${p2} and ${p3}. ${p0} and ${p1} survive."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight ${p2} and ${p3}. ${p2} and ${p3} survive."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} hunt for other tributes."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} split up to search for resources."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} threaten a double suicide. It fails and they die."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} track down and kill ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} work together for the day."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} work together to drown ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} attacks ${p1}, but ${p2} protects her, killing ${p0}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} attacks ${p1}, but ${p2} protects him, killing ${p0}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} attacks ${p1}, but he manages to escape."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} attacks ${p1}, but she manages to escape."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} attempts to climb a tree, but falls on ${p1}, killing them both."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} attempts to climb a tree, but falls to her death."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} attempts to climb a tree, but falls to his death."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} bashes ${p1}'s head against a rock several times."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} bashes ${p1}'s head in with a mace."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill her. He refuses, keeping ${p0} alive."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill her. He reluctantly obliges, killing ${p0}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill her. She refuses, keeping ${p0} alive."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill her. She reluctantly obliges, killing ${p0}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill him. He refuses, keeping ${p0} alive."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill him. He reluctantly obliges, killing ${p0}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill him. She refuses, keeping ${p0} alive."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill him. She reluctantly obliges, killing ${p0}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} bleeds out due to untreated injuries."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} camouflauges herself in the bushes."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} camouflauges himself in the bushes."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} cannot handle the circumstances and commits suicide."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} catches ${p1} off guard and kills her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} catches ${p1} off guard and kills him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} chases ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} collects fruit from a tree."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} constructs a shack."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill her, only to kill her instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill her, only to kill him instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill him, only to kill her instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill him, only to kill him instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} decapitates ${p1} with a sword."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} defeats ${p1} in a fight, but spares her life."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} defeats ${p1} in a fight, but spares his life."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} dies from an infection."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} dies from hunger."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} dies from hypothermia."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} dies from thirst."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} dies of dysentery."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} dies trying to escape the arena."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} discovers a cave."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} discovers a river."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} diverts ${p1}'s attention and runs away."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} explores the arena."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} falls into a frozen lake and drowns."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} falls into a pit and dies."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} fishes."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. He decides to kill ${p2}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. He decides to kill ${p3}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. He refuses to kill, so ${p0} kills him instead."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. She decides to kill ${p2}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. She decides to kill ${p3}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. She refuses to kill, so ${p0} kills her instead."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} goes hunting."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} hunts for other tributes."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} injures herself."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} injures himself."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} is pricked by thorns while picking berries."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} is unable to convince ${p1} to not kill her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} is unable to convince ${p1} to not kill him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} as he tries to run."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} as she tries to run."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} for her supplies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} for his supplies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} while he is resting."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} while she is resting."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with a hatchet."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with a sickle."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with her own weapon."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with his own weapon."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} makes a slingshot."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} makes a wooden spear."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} overhears ${p1} and ${p2} talking in the distance."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} overpowers ${p1}, killing her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} overpowers ${p1}, killing him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} picks flowers."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} poisons ${p1}'s drink, but mistakes it for her own and dies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} poisons ${p1}'s drink, but mistakes it for his own and dies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} poisons ${p1}'s drink. He drinks it and dies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} poisons ${p1}'s drink. She drinks it and dies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} practices her archery."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} practices his archery."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} pushes ${p1} off a cliff during a knife fight."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} questions her sanity."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} questions his sanity."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} receives a hatchet from an unknown sponsor."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} receives an explosive from an unknown sponsor."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} receives clean water from an unknown sponsor."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} receives fresh food from an unknown sponsor."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} receives medical supplies from an unknown sponsor."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} repeatedly stabs ${p1} to death with sais."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} runs away from ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} scares ${p1} off."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} searches for a water source."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} searches for firewood."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} sees smoke rising in the distance, but decides not to investigate."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} sets ${p1} on fire with a molotov."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, ${p2}, ${p3} and ${p4}."
+            },
+            "participantes": 5
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, ${p2}, and ${p3}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, and ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1} and leaves her to die."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1} and leaves him to die."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1}, but puts her out of her misery."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1}, but puts him out of his misery."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely slices ${p1} with a sword."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots a poisonous blow dart into ${p1}'s neck, slowly killing her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots a poisonous blow dart into ${p1}'s neck, slowly killing him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots an arrow at ${p1}, but misses and kills ${p2} instead."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots an arrow into ${p1}'s head."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} silently snaps ${p1}'s neck."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} spears ${p1} in the abdomen."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} sprains her ankle while running away from ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} sprains his ankle while running away from ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} in the back with a trident."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} while her back is turned."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} while his back is turned."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} with a tree branch."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stalks ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} steals from ${p1} while he isn't looking."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} steals from ${p1} while she isn't looking."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} strangles ${p1} after engaging in a fist fight."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} strangles ${p1} with a rope."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} taints ${p1}'s food, killing her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} taints ${p1}'s food, killing him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} tends to ${p1}'s wounds."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} thinks about home."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} throws a knife into ${p1}'s chest."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} throws a knife into ${p1}'s head."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} tracks down and kills ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} travels to higher ground."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} tries to sleep through the entire day."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} tries to spear fish with a trident."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} unknowingly eats toxic berries."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, ${p3}, and ${p4} hunt for other tributes."
+            },
+            "participantes": 5
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, ${p3}, and ${p4} track down and kill ${p5}."
+            },
+            "participantes": 6
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} form a suicide pact, killing themselves."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} hunt for other tributes."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} raid ${p4}'s camp while he is hunting."
+            },
+            "participantes": 5
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} raid ${p4}'s camp while she is hunting."
+            },
+            "participantes": 5
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} track down and kill ${p4}."
+            },
+            "participantes": 5
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p0} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p1} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p2} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} hunt for other tributes."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} start fighting, but ${p1} runs away as ${p0} kills ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} successfully ambush and kill ${p3}, ${p4}, and ${p5}."
+            },
+            "participantes": 6
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} track down and kill ${p3}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} unsuccessfully ambush ${p3}, ${p4}, and ${p5}, who kill them instead."
+            },
+            "participantes": 6
+        },
+        {
+            "texto": {
+                "en": "${p0}'s trap kills ${p1}."
+            },
+            "participantes": 2
+        }
+    ],
+    "noite": [
+        {
+            "texto": {
+                "en": "${p0} accidently detonates a land mine while trying to arm it."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} accidently steps on a landmine."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} ambushes ${p1} and kills her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} ambushes ${p1} and kills him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight ${p2} and ${p3}. ${p0} and ${p1} survive."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight ${p2} and ${p3}. ${p2} and ${p3} survive."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} hold hands."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} huddle for warmth."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} run into each other and decide to truce for the night."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} sleep in shifts."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} talk about the tributes still alive."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} tell stories about themselves to each other."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} threaten a double suicide. It fails and they die."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} track down and kill ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} work together to drown ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} attacks ${p1}, but ${p2} protects her, killing ${p0}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} attacks ${p1}, but ${p2} protects him, killing ${p0}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} attempts to climb a tree, but falls on ${p1}, killing them both."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} attempts to climb a tree, but falls to her death."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} attempts to climb a tree, but falls to his death."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} attempts to start a fire, but is unsuccessful."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} bashes ${p1}'s head against a rock several times."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} bashes ${p1}'s head in with a mace."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill her. He refuses, keeping ${p0} alive."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill her. He reluctantly obliges, killing ${p0}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill her. She refuses, keeping ${p0} alive."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill her. She reluctantly obliges, killing ${p0}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill him. He refuses, keeping ${p0} alive."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill him. He reluctantly obliges, killing ${p0}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill him. She refuses, keeping ${p0} alive."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} begs for ${p1} to kill him. She reluctantly obliges, killing ${p0}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} bleeds out due to untreated injuries."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} cannot handle the circumstances and commits suicide."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} catches ${p1} off guard and kills her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} catches ${p1} off guard and kills him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} climbs a tree to rest."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill her, only to kill her instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill her, only to kill him instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill him, only to kill her instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill him, only to kill him instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to snuggle with her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to snuggle with him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} cooks her food before putting her fire out."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} cooks his food before putting his fire out."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} cries herself to sleep."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} cries himself to sleep."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} decapitates ${p1} with a sword."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} defeats ${p1} in a fight, but spares her life."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} defeats ${p1} in a fight, but spares his life."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} destroys ${p1}'s supplies while he is asleep."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} destroys ${p1}'s supplies while she is asleep."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} dies from an infection."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} dies from hunger."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} dies from hypothermia."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} dies from thirst."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} dies of dysentery."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} dies trying to escape the arena."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} falls into a frozen lake and drowns."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} falls into a pit and dies."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} fends ${p1}, ${p2}, and ${p3} away from her fire."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} fends ${p1}, ${p2}, and ${p3} away from his fire."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. He decides to kill ${p2}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. He decides to kill ${p3}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. He refuses to kill, so ${p0} kills him instead."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. She decides to kill ${p2}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. She decides to kill ${p3}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} forces ${p1} to kill ${p2} or ${p3}. She refuses to kill, so ${p0} kills her instead."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} goes to sleep."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} is awoken by nightmares."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} is unable to convince ${p1} to not kill her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} is unable to convince ${p1} to not kill him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} is unable to start a fire and sleeps without warmth."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} as he tries to run."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} as she tries to run."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} for her supplies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} for his supplies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} while he is sleeping."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} while she is sleeping."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with a hatchet."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with a sickle."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with her own weapon."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with his own weapon."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} lets ${p1} into her shelter."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} lets ${p1} into his shelter."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} looks at the night sky."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} loses sight of where he is."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} loses sight of where she is."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} overpowers ${p1}, killing her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} overpowers ${p1}, killing him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} passes out from exhaustion."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} poisons ${p1}'s drink, but mistakes it for her own and dies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} poisons ${p1}'s drink, but mistakes it for his own and dies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} poisons ${p1}'s drink. He drinks it and dies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} poisons ${p1}'s drink. She drinks it and dies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} pushes ${p1} off a cliff during a knife fight."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} questions her sanity."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} questions his sanity."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} quietly hums."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} receives a hatchet from an unknown sponsor."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} receives an explosive from an unknown sponsor."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} receives clean water from an unknown sponsor."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} receives fresh food from an unknown sponsor."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} receives medical supplies from an unknown sponsor."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} repeatedly stabs ${p1} to death with sais."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} screams for help."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} sees a fire, but stays hidden."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} sets ${p1} on fire with a molotov."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, ${p2}, ${p3} and ${p4}."
+            },
+            "participantes": 5
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, ${p2}, and ${p3}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, and ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} sets up camp for the night."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1} and leaves her to die."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1} and leaves him to die."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1}, but puts her out of her misery."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1}, but puts him out of his misery."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely slices ${p1} with a sword."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots a poisonous blow dart into ${p1}'s neck, slowly killing her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots a poisonous blow dart into ${p1}'s neck, slowly killing him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots an arrow at ${p1}, but misses and kills ${p2} instead."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots an arrow into ${p1}'s head."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} silently snaps ${p1}'s neck."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} spears ${p1} in the abdomen."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} in the back with a trident."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} while her back is turned."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} while his back is turned."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} with a tree branch."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} starts a fire."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} stays awake all night."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} strangles ${p1} after engaging in a fist fight."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} strangles ${p1} with a rope."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} taints ${p1}'s food, killing her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} taints ${p1}'s food, killing him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} tends to ${p1}'s wounds."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} tends to her wounds."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} tends to his wounds."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} thinks about home."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} thinks about winning."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} throws a knife into ${p1}'s chest."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} throws a knife into ${p1}'s head."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} tracks down and kills ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} tries to sing herself to sleep."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} tries to sing himself to sleep."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} tries to treat her infection."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} tries to treat his infection."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} unknowingly eats toxic berries."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, ${p3}, and ${p4} sleep in shifts."
+            },
+            "participantes": 5
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, ${p3}, and ${p4} track down and kill ${p5}."
+            },
+            "participantes": 6
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} form a suicide pact, killing themselves."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} sleep in shifts."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} tell each other ghost stories to lighten the mood."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} track down and kill ${p4}."
+            },
+            "participantes": 5
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} cheerfully sing songs together."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} discuss the games and what might happen in the morning."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p0} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p1} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p2} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} sleep in shifts."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} start fighting, but ${p1} runs away as ${p0} kills ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} successfully ambush and kill ${p3}, ${p4}, and ${p5}."
+            },
+            "participantes": 6
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} track down and kill ${p3}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} unsuccessfully ambush ${p3}, ${p4}, and ${p5}, who kill them instead."
+            },
+            "participantes": 6
+        },
+        {
+            "texto": {
+                "en": "${p0}'s trap kills ${p1}."
+            },
+            "participantes": 2
+        }
+    ],
+    "banquete": [
+        {
+            "texto": {
+                "en": "${p0} accidently steps on a landmine."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} ambushes ${p1} and kills her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} ambushes ${p1} and kills him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} decide to work together to get more supplies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight ${p2} and ${p3}. ${p0} and ${p1} survive."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} fight ${p2} and ${p3}. ${p2} and ${p3} survive."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} get into a fight over raw meat, but ${p0} gives up and runs away."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} get into a fight over raw meat, but ${p1} gives up and runs away."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} threaten a double suicide. It fails and they die."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} track down and kill ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} and ${p1} work together to drown ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} attacks ${p1}, but ${p2} protects her, killing ${p0}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} attacks ${p1}, but ${p2} protects him, killing ${p0}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} bashes ${p1}'s head against a rock several times."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} bashes ${p1}'s head in with a mace."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} bleeds out due to untreated injuries."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} cannot handle the circumstances and commits suicide."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} catches ${p1} off guard and kills her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} catches ${p1} off guard and kills him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill her, only to kill her instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill her, only to kill him instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} convinces ${p1} to not kill him, only to kill her instead."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} decapitates ${p1} with a sword."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} decides not to go to The Feast."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} destroys ${p1}'s memoirs out of spite."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} dies from an infection."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} falls into a frozen lake and drowns."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} falls into a pit and dies."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} gathers as much food into a bag as he can before fleeing."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} gathers as much food into a bag as she can before fleeing."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} is unable to convince ${p1} to not kill her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} is unable to convince ${p1} to not kill him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} as he tries to run."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} as she tries to run."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} for her supplies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} for his supplies."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with a hatchet."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with a sickle."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with her own weapon."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} kills ${p1} with his own weapon."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} overpowers ${p1}, killing her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} overpowers ${p1}, killing him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} pushes ${p1} off a cliff during a knife fight."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} repeatedly stabs ${p1} to death with sais."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} sets ${p1} on fire with a molotov."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, ${p2}, ${p3} and ${p4}."
+            },
+            "participantes": 5
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, ${p2}, and ${p3}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}, and ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} sets an explosive off, killing ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1} and leaves her to die."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1}, but puts her out of her misery."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely injures ${p1}, but puts him out of his misery."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} severely slices ${p1} with a sword."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots a poisonous blow dart into ${p1}'s neck, slowly killing her."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots a poisonous blow dart into ${p1}'s neck, slowly killing him."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots an arrow at ${p1}, but misses and kills ${p2} instead."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0} shoots an arrow into ${p1}'s head."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} snaps ${p1}'s neck."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} sobs while gripping a photo of her friends and family."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} sobs while gripping a photo of his friends and family."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} spears ${p1} in the abdomen."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} in the back with a trident."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} while her back is turned."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} while his back is turned."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stabs ${p1} with a tree branch."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} steals ${p1}'s memoirs."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} strangles ${p1} after engaging in a fist fight."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} strangles ${p1} with a rope."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} stuffs a bundle of dry clothing into a backpack before sprinting away."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} takes a staff leaning against the cornucopia."
+            },
+            "participantes": 1
+        },
+        {
+            "texto": {
+                "en": "${p0} throws a knife into ${p1}'s chest."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} throws a knife into ${p1}'s head."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0} tracks down and kills ${p1}."
+            },
+            "participantes": 2
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, ${p3}, and ${p4} track down and kill ${p5}."
+            },
+            "participantes": 6
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} form a suicide pact, killing themselves."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} team up to grab food, supplies, weapons, and memoirs."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, ${p2}, and ${p3} track down and kill ${p4}."
+            },
+            "participantes": 5
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} confront each other, but grab what they want slowly to avoid conflict."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p0} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p1} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} get into a fight. ${p2} triumphantly kills them both."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} start fighting, but ${p1} runs away as ${p0} kills ${p2}."
+            },
+            "participantes": 3
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} successfully ambush and kill ${p3}, ${p4}, and ${p5}."
+            },
+            "participantes": 6
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} track down and kill ${p3}."
+            },
+            "participantes": 4
+        },
+        {
+            "texto": {
+                "en": "${p0}, ${p1}, and ${p2} unsuccessfully ambush ${p3}, ${p4}, and ${p5}, who kill them instead."
+            },
+            "participantes": 6
+        },
+        {
+            "texto": {
+                "en": "${p0}'s trap kills ${p1}."
+            },
+            "participantes": 2
+        }
+    ]
+}
