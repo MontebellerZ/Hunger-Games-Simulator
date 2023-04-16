@@ -136,7 +136,7 @@ function validateToken(req, res, next) {
 }
 
 app.get("/teste", (req, res) => {
-    res.send("salve");
+    res.send("testado");
 });
 
 app.get(`/login`, (req, res) => {
@@ -186,6 +186,8 @@ app.get(`/login`, (req, res) => {
             res.status(500).send("Erro inesperado.");
         }
     });
+
+    con.end();
 });
 
 app.get(`/checkToken`, validateToken, (req, res) => {
@@ -345,19 +347,28 @@ app.put(`/alterarSenha`, validateToken, (req, res) => {
     }
 });
 
-app.post("/novoJogo", (req, res) => {
+app.post("/jogo", (req, res) => {
     try {
+        let con = connect();
+
         let nome = req.body.nome;
         let participantes = req.body.participantes;
 
-        let queryNovoJogo = "INSERT INTO jogos (nome) VALUES (?)";
-
-        if (!Array.isArray(participantes) || participantes.length !== 24) {
-            res.status(404).send("Participantes precisa ser um array com 24 posições");
+        if (nome.length < 4) {
+            res.status(400).send("Nome precisa ser uma string com pelo menos 4 caracteres");
             return;
         }
 
-        con.query(queryNovoJogo, [nome], (err, rows) => {
+        if (!Array.isArray(participantes) || participantes.length < 10 || participantes.length > 100) {
+            res.status(400).send(
+                "Lista de participantes precisa ser um array com pelo menos 10 posições e no máximo 100"
+            );
+            return;
+        }
+
+        let queryNovoJogo = "INSERT INTO jogos (nome, qtd_participantes) VALUES (?, ?)";
+
+        con.query(queryNovoJogo, [nome, participantes.length], (err, rows) => {
             if (err) throw err;
 
             let insertedGameId = rows.insertId;
@@ -387,19 +398,22 @@ app.post("/novoJogo", (req, res) => {
     }
 });
 
-app.post("/novoParticipante", (req, res) => {
+app.post("/participante", (req, res) => {
     try {
         let nomeParticipante = req.body.nome;
         let sobrenomeParticipante = req.body.sobrenome;
+        let nickParticipante = req.body.nick;
+
+        let con = connect();
 
         if (!nomeParticipante) {
             res.status(401).send("Nome precisa ser uma ou mais palavras");
             return;
         }
 
-        let queryNovoParticipante = "INSERT INTO participantes (nome, sobrenome) VALUES (?, ?)";
+        let queryNovoParticipante = "INSERT INTO participantes (nome, sobrenome, nick) VALUES (?, ?, ?)";
 
-        con.query(queryNovoParticipante, [nomeParticipante, sobrenomeParticipante], (err, rows) => {
+        con.query(queryNovoParticipante, [nomeParticipante, sobrenomeParticipante, nickParticipante], (err, rows) => {
             if (err) {
                 if (err.code === "ER_DUP_ENTRY") {
                     res.status(401).send("Combinação de nome e sobrenome já existente.");
@@ -424,6 +438,8 @@ app.post("/novoParticipante", (req, res) => {
 
             res.send(insertId.toString());
         });
+
+        con.end();
     } catch (err) {
         console.log(err);
         res.status(500).send(err);
@@ -432,7 +448,20 @@ app.post("/novoParticipante", (req, res) => {
 
 app.get("/participantes", (req, res) => {
     try {
-        let queryGetParticipantes = "SELECT id, nome, sobrenome, foto, partidas, vitorias, kills FROM participantes;";
+        let con = connect();
+
+        let queryGetParticipantes = `
+            SELECT 
+                id, 
+                nome, 
+                sobrenome, 
+                nick, 
+                foto
+            FROM 
+                participantes 
+            ORDER BY
+                nick;
+            `;
 
         con.query(queryGetParticipantes, (err, rows) => {
             if (err) {
@@ -442,6 +471,148 @@ app.get("/participantes", (req, res) => {
 
             res.send(rows);
         });
+
+        con.end();
+    } catch (err) {
+        console.log(err);
+        res.status(500).send(err);
+    }
+});
+
+app.get("/participantes/:id", (req, res) => {
+    try {
+        let partId = req.params.id;
+
+        if (isNaN(partId)) {
+            res.status(400).send("Id do participante deve ser um número");
+            return;
+        }
+
+        let con = connect();
+
+        let queryGetParticipantes = `
+            SELECT 
+                id,
+                nome,
+                sobrenome,
+                nick,
+                foto,
+                partidas10,
+                vitorias10,
+                kills10,
+                kill_streak10,
+                partidas25,
+                vitorias25,
+                kills25,
+                kill_streak25,
+                partidas50,
+                vitorias50,
+                kills50,
+                kill_streak50
+            FROM 
+                participantes 
+            WHERE
+                id = (?);
+            `;
+
+        con.query(queryGetParticipantes, [partId], (err, rows) => {
+            if (err) {
+                res.status(500).send(err);
+                return;
+            }
+
+            if (rows.length !== 1) {
+                res.status(404).send("Id enviado não corresponde a nenhum participante");
+                return;
+            }
+
+            res.send(rows[0]);
+        });
+
+        con.end();
+    } catch (err) {
+        console.log(err);
+        res.status(500).send(err);
+    }
+});
+
+app.put("/participante", (req, res) => {
+    try {
+        let { id: partId, nome, sobrenome, nick, foto } = req.body;
+
+        if (isNaN(partId)) {
+            res.status(400).send("Id do participante deve ser um número");
+            return;
+        }
+
+        let con = connect();
+
+        let queryGetParticipantes = `
+            UPDATE
+                participantes
+            SET
+                nome = (?),
+                sobrenome = (?),
+                nick = (?),
+                foto = (?)
+            WHERE
+                id = (?)
+            `;
+
+        con.query(queryGetParticipantes, [nome, sobrenome, nick, foto, partId], (err, rows) => {
+            if (err) {
+                res.status(500).send(err);
+                return;
+            }
+
+            if (rows.affectedRows !== 1) {
+                res.status(404).send("Id enviado não corresponde a nenhum participante");
+                return;
+            }
+
+            res.send();
+        });
+
+        con.end();
+    } catch (err) {
+        console.log(err);
+        res.status(500).send(err);
+    }
+});
+
+app.delete("/participantes/:id", (req, res) => {
+    try {
+        let partId = req.params.id;
+
+        if (isNaN(partId)) {
+            res.status(400).send("Id do participante deve ser um número");
+            return;
+        }
+
+        let con = connect();
+
+        let queryGetParticipantes = `
+            DELETE FROM
+                participantes
+            WHERE
+                id = ?
+            `;
+
+        con.query(queryGetParticipantes, [partId], (err, rows) => {
+            if (err) {
+                res.status(500).send(err);
+                return;
+            }
+
+            if (rows.affectedRows !== 1) {
+                res.status(404).send("Id enviado não corresponde a nenhum participante");
+                return;
+            }
+
+            res.send();
+        });
+
+        con.end();
     } catch (err) {
         console.log(err);
         res.status(500).send(err);

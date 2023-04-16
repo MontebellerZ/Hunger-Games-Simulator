@@ -2,9 +2,12 @@ import "./Header.css";
 import Logo from "../../imgs/logo.png";
 import Menu from "../Menu/Menu";
 import { useNavigate } from "react-router-dom";
+import { useTranslation } from "react-i18next";
 
-function Header({}) {
-    const usuario = JSON.parse(sessionStorage.getItem("usuario"));
+function Header() {
+    // const usuario = JSON.parse(sessionStorage.getItem("usuario"));
+
+    const { t } = useTranslation();
 
     const navegar = useNavigate();
 
@@ -16,7 +19,7 @@ function Header({}) {
         <div id="Header">
             <button id="HeaderLogo" onClick={homeBtn}>
                 <img src={Logo} alt="Logo do Site" />
-                <span>HG dos cria</span>
+                <span>{t("Jogos Vorazes")}</span>
             </button>
 
             <Menu />

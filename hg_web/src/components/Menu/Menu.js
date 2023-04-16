@@ -1,33 +1,38 @@
 import "./Menu.css";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
-import Tradutor from "../../utils/Tradutor/Tradutor";
+import { useTranslation } from "react-i18next";
+import i18next, { changeLanguage } from "i18next";
+import linguagens from "../../utils/i18n/languages.json";
 
-function Menu({}) {
-    const [lang, setLang] = useState(Tradutor.getSelectedLang());
+function Menu() {
+    const { t } = useTranslation();
+
+    const itens = [
+        { label: t("Home"), to: "/" },
+        { label: t("Novo Jogo"), to: "/novoJogo" },
+        { label: t("Jogos"), to: "/jogos" },
+        { label: t("Tributos"), to: "/participantes" },
+    ];
 
     const mudarLang = (lg) => {
-        Tradutor.mudarLinguagem(lg);
         setLang(lg);
+        changeLanguage(lg);
     };
+
+    const [lang, setLang] = useState(i18next.language);
 
     return (
         <div id="menu">
-            <NavLink to={"/"} className={({ isActive }) => (isActive ? "menuItem menuItemAtivo" : "menuItem")}>
-                {Tradutor.t("Home")}
-            </NavLink>
-            <NavLink to={"/novoJogo"} className={({ isActive }) => (isActive ? "menuItem menuItemAtivo" : "menuItem")}>
-                {Tradutor.t("Novo Jogo")}
-            </NavLink>
-            <NavLink to={"/jogos"} className={({ isActive }) => (isActive ? "menuItem menuItemAtivo" : "menuItem")}>
-                {Tradutor.t("Jogos")}
-            </NavLink>
-            <NavLink
-                to={"/participantes"}
-                className={({ isActive }) => (isActive ? "menuItem menuItemAtivo" : "menuItem")}
-            >
-                {Tradutor.t("Tributos")}
-            </NavLink>
+            {itens.map(({ label, to }, i) => (
+                <NavLink
+                    key={i}
+                    to={to}
+                    className={({ isActive }) => (isActive ? "menuItem menuItemAtivo" : "menuItem")}
+                >
+                    {label}
+                </NavLink>
+            ))}
 
             <select
                 value={lang}
@@ -35,8 +40,8 @@ function Menu({}) {
                     mudarLang(e.target.value);
                 }}
             >
-                {Tradutor.getLangs().map((lg) => (
-                    <option value={lg} label={lg.toUpperCase()} />
+                {linguagens.map(({ nome, code }, i) => (
+                    <option key={i} value={code} label={nome} />
                 ))}
             </select>
         </div>

@@ -1,6 +1,6 @@
 import "./Jogos.css";
 
-function Jogos({}) {
+function Jogos() {
     return <div></div>;
 }
 

@@ -13,10 +13,12 @@ html {
     --corBackground: #080808;
     --corMenu: #141413;
     --corBranco: #fff;
+    --corPreto: #000;
     --corBordaMenu: #000;
     --corItemMenuAtivo: goldenrod;
     --corMenuColor: #fff;
-    --corColor: #000;
+    --corColor: #fff;
+    --corTransparente: #00000000;
 }
 
 .App {
@@ -24,8 +26,22 @@ html {
     color: var(--corColor);
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
 
-a {
+a,
+select,
+input {
     color: inherit;
+}
+
+::-webkit-scrollbar {
+    width: 16px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #b78b1b;
+    border-radius: 1000px;
+    border: 6px solid rgba(0, 0, 0, 0);
+    background-clip: padding-box;
 }

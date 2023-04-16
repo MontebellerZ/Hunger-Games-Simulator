@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Português - Brasil",
+        "code": "pt",
+        "sigla": "PT-BR"
+    },
+    {
+        "nome": "English - US",
+        "code": "en",
+        "sigla": "EN-US"
+    }
+]

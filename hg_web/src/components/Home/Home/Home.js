@@ -1,7 +1,6 @@
-import { useEffect } from "react";
 import "./Home.css";
 
-function Home({}) {
+function Home() {
     return <div></div>;
 }
 
