@@ -1,0 +1,19 @@
+
+*** 11:30:04 ***
+HttpError: Login and password are required
+    at C:\Projects\goenglish_back\src\routes\App\User\index.js:95:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Projects\goenglish_back\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Projects\goenglish_back\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Projects\goenglish_back\node_modules\express\lib\router\index.js:47:12)
+
+*** 13:26:51 ***
+HttpError: Email "claudinei@email.com" is already registered
+    at C:\Projects\goenglish_back\src\routes\App\User\index.js:49:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Projects\goenglish_back\src\routes\App\User\index.js:43:34

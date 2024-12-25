@@ -1,0 +1,100 @@
+
+*** 11:20:23 ***
+HttpError: Incorrect login or password
+    at C:\Projects\GoEnglish\goenglish_back\src\routes\App\User\index.js:104:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+*** 11:20:35 ***
+HttpError: Incorrect login or password
+    at C:\Projects\GoEnglish\goenglish_back\src\routes\App\User\index.js:104:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+*** 13:39:51 ***
+SyntaxError: Unexpected token n in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:231:16)
+    at done (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+
+*** 13:40:17 ***
+SyntaxError: Unexpected token n in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:231:16)
+    at done (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+
+*** 13:40:57 ***
+SyntaxError: Unexpected token n in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:231:16)
+    at done (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+
+*** 13:43:12 ***
+SyntaxError: Unexpected token n in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:231:16)
+    at done (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+
+*** 13:50:08 ***
+HttpError: Incorrect login or password
+    at C:\Projects\GoEnglish\goenglish_back\src\routes\App\User\index.js:104:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+*** 14:06:26 ***
+HttpError: Incorrect login or password
+    at C:\Projects\GoEnglish\goenglish_back\src\routes\App\User\index.js:104:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+*** 14:23:02 ***
+HttpError: Incorrect login or password
+    at C:\Projects\GoEnglish\goenglish_back\src\routes\App\User\index.js:104:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+*** 16:32:07 ***
+SyntaxError: Unexpected token n in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:231:16)
+    at done (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Projects\GoEnglish\goenglish_back\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+
+*** 16:51:17 ***
+HttpError: Incorrect login or password
+    at C:\Projects\GoEnglish\goenglish_back\src\routes\App\User\index.js:104:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+*** 16:51:22 ***
+HttpError: Incorrect login or password
+    at C:\Projects\GoEnglish\goenglish_back\src\routes\App\User\index.js:104:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

@@ -1,0 +1,260 @@
+
+*** 08:43:45 ***
+HttpError: Login and password are required
+    at C:\trabalho\goenglish\goenglish_back\src\routes\App\User\index.js:95:19
+    at Layer.handle [as handle_request] (C:\trabalho\goenglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\trabalho\goenglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\trabalho\goenglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\trabalho\goenglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\trabalho\goenglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\trabalho\goenglish\goenglish_back\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\trabalho\goenglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\trabalho\goenglish\goenglish_back\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\trabalho\goenglish\goenglish_back\node_modules\express\lib\router\index.js:47:12)
+
+*** 08:51:40 ***
+HttpError: Incorrect login or password
+    at C:\trabalho\goenglish\goenglish_back\src\routes\App\User\index.js:111:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+*** 09:12:18 ***
+HttpError: This combination of name, startDate and endDate is already registered
+    at C:\trabalho\goenglish\goenglish_back\src\routes\App\Event\index.js:45:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\trabalho\goenglish\goenglish_back\src\routes\App\Event\index.js:39:35
+
+*** 09:12:45 ***
+SyntaxError: Unexpected token n in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\trabalho\goenglish\goenglish_back\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\trabalho\goenglish\goenglish_back\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\trabalho\goenglish\goenglish_back\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\trabalho\goenglish\goenglish_back\node_modules\raw-body\index.js:231:16)
+    at done (C:\trabalho\goenglish\goenglish_back\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\trabalho\goenglish\goenglish_back\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+
+*** 10:45:05 ***
+SyntaxError: Unexpected token n in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\trabalho\goenglish\goenglish_back\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\trabalho\goenglish\goenglish_back\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\trabalho\goenglish\goenglish_back\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\trabalho\goenglish\goenglish_back\node_modules\raw-body\index.js:231:16)
+    at done (C:\trabalho\goenglish\goenglish_back\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\trabalho\goenglish\goenglish_back\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+
+*** 12:29:40 ***
+HttpError: Incorrect login or password
+    at C:\trabalho\goenglish\goenglish_back\src\routes\App\User\index.js:111:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+*** 13:33:04 ***
+SyntaxError: Unexpected token n in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\trabalho\goenglish\goenglish_back\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\trabalho\goenglish\goenglish_back\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\trabalho\goenglish\goenglish_back\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\trabalho\goenglish\goenglish_back\node_modules\raw-body\index.js:231:16)
+    at done (C:\trabalho\goenglish\goenglish_back\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\trabalho\goenglish\goenglish_back\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+
+*** 10:34:16 ***
+HttpError: Incorrect login or password
+    at C:\Projects\GoEnglish\goenglish_back\src\routes\App\User\index.js:111:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+*** 11:43:39 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:18:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:43:40 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:18:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:44:19 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:18:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:44:24 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:18:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:44:38 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:18:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:44:54 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:18:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:45:20 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:18:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:45:32 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:18:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:47:14 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:18:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:47:34 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:18:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:49:39 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:19:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:52:08 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:19:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 11:52:52 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:19:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 12:13:10 ***
+HttpError: Token was not sended with the request
+    at TokenValidationRoute (C:\Projects\GoEnglish\goenglish_back\src\config\TokenValidationRoute\index.js:18:23)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Projects\GoEnglish\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+
+*** 14:05:57 ***
+HttpError: Incorrect login or password
+    at C:\Projects\GoEnglish\goenglish_back\src\routes\App\User\index.js:112:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

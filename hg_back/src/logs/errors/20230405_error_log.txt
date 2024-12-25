@@ -1,0 +1,1301 @@
+
+*** 09:18:16 ***
+ReferenceError: state is not defined
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:91:13
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 09:18:24 ***
+ReferenceError: state is not defined
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:91:13
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 09:19:40 ***
+ReferenceError: state is not defined
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:91:13
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 09:19:51 ***
+ReferenceError: state is not defined
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:91:13
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 09:20:15 ***
+ReferenceError: state is not defined
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:91:13
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 09:20:45 ***
+ReferenceError: state is not defined
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:91:13
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 10:01:12 ***
+ReferenceError: state is not defined
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:91:13
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 10:01:16 ***
+ReferenceError: state is not defined
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:91:13
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:07:19 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:09:55 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:09:55 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:10:57 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:11:21 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:11:32 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:11:44 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:12:05 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:12:05 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:12:10 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:12:24 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:12:42 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:13:01 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:13:15 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:17:40 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:17:40 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:17:42 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:17:56 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:17:57 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:20:34 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:21:23 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:22:00 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:22:00 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:22:06 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:25:14 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:25:37 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:26:02 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:28:26 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:30:37 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:31:03 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:31:03 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:31:31 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:31:45 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:31:45 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:32:34 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:33:16 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:33:30 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:33:38 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:34:05 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:35:28 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:36:01 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:36:09 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:38:26 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:38:43 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:38:56 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:39:25 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:45:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:40:05 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:45:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:46:50 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:45:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:47:56 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:45:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:48:34 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:45:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:52:31 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:151:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 11:52:48 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:151:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 11:52:48 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:151:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 11:53:25 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:151:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 11:53:25 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:151:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 11:53:54 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 11:56:20 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 11:56:31 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 11:57:42 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:59:14 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:44:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:59:44 ***
+TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:41:23
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 11:59:57 ***
+TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:41:23
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 12:00:15 ***
+TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:41:23
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 12:03:29 ***
+HttpError: leads must be an array
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:43:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:101:10)
+    at TokenValidationRoute (C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:20:9)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+
+*** 12:03:54 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 12:04:42 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 12:08:49 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 12:08:55 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 12:08:58 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 12:08:58 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 12:18:20 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 12:18:26 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 12:18:26 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 12:18:37 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 12:19:09 ***
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Sequence._packetToError (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Projects\goenglish_back\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Projects\goenglish_back\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    --------------------
+    at Pool.query (C:\Projects\goenglish_back\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:17:20
+    at new Promise (<anonymous>)
+    at AsyncMysqlQuery (C:\Projects\goenglish_back\src\utils\AsyncMysqlQuery\index.js:11:12)
+    at C:\Projects\goenglish_back\src\routes\App\Lead\index.js:150:40
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at C:\Projects\goenglish_back\src\config\TokenValidationRoute\index.js:25:9
+    at C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Projects\goenglish_back\node_modules\jsonwebtoken\verify.js:97:14)
+
+*** 13:41:44 ***
+HttpError: Login and password are required
+    at C:\Projects\goenglish_back\src\routes\App\User\index.js:95:19
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Projects\goenglish_back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Projects\goenglish_back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Projects\goenglish_back\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Projects\goenglish_back\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Projects\goenglish_back\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Projects\goenglish_back\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Projects\goenglish_back\node_modules\express\lib\router\index.js:47:12)
